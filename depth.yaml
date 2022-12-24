@@ -1,0 +1,18 @@
+facial features/nose:
+    0.55
+facial features/mouth:
+    0.65
+facial features/eyes:
+    0.65
+facial features/eyebrow:
+    0.65
+backhair:
+    0.8
+body:
+    0.9
+face:
+    0.7
+fronthair:
+    0.6
+side ponytail: 
+    0.6
